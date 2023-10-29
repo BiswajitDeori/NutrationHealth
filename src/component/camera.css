@@ -1,0 +1,207 @@
+
+
+
+.camera-header
+{
+    font-size: large;
+    color: rgb(7, 11, 12);
+    font-size: 50px;
+    margin-top: -300px;
+    background-color: rgb(219, 241, 241);
+    margin-bottom: 100px;
+    opacity: 0.8;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Webcam-main
+{
+    margin-bottom: 10px;
+    border: 2px solid rgb(171, 221, 250);
+}
+
+/* CSS */
+.button-5 {
+  align-items: center;
+  background-clip: padding-box;
+  background-color: #fa6400;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+}
+
+svg
+{
+    margin-right: 10px;
+}
+
+.button-5:hover,
+.button-5:focus {
+  background-color: #fb8332;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+}
+
+.button-5:hover {
+  transform: translateY(-1px);
+}
+
+.button-5:active {
+  background-color: #c85000;
+  box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+  transform: translateY(0);
+}
+
+
+input[type="file"] {
+    display: none;
+  }
+  
+  /* Style the custom file input button */
+
+ 
+  .button-6 {
+    margin-left: 100px;
+    align-items: center;
+    background-clip: padding-box;
+    background-color: #26acc4;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+  }
+  
+  svg
+  {
+      margin-right: 10px;
+  }
+  
+  .button-6:hover,
+  .button-6:focus {
+    background-color: #26acc4;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  }
+  
+  .button-6:hover {
+    transform: translateY(-1px);
+  }
+  
+  .button-6:active {
+    background-color: #26acc4;
+    box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+    transform: translateY(0);
+  }
+  
+  .display-outer > * {
+    display:inline-block;
+  }
+  .display-one {width:80px; height:80px;}
+  .display-two {width:80px; height:80px;}
+
+
+  .food-Name{
+  
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    text-transform: capitalize;
+    color: rgb(155, 80, 173);
+    font-weight: 800;
+    background-color: #a4e4e1;
+    margin-bottom: 10px;
+    border: 2px 5px  solid rgb(102, 5, 5);
+ 
+  }
+
+
+
+  .button-7 {
+    align-items: center;
+    background-clip: padding-box;
+    background-color: #fa6400;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+    margin-top: 20px;
+  }
+  
+  svg
+  {
+      margin-right: 10px;
+  }
+  
+  .button-7:hover,
+  .button-7:focus {
+    background-color: #fb8332;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  }
+  
+  .button-7:hover {
+    transform: translateY(-1px);
+  }
+  
+  .button-7:active {
+    background-color: #c85000;
+    box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+    transform: translateY(0);
+  }
+  
